@@ -8,7 +8,6 @@ import java.io.ObjectOutput;
 import java.io.ObjectOutputStream;
 import java.lang.reflect.Constructor;
 
-
 public class Client {
 
 	public static void main(String[] args) {
